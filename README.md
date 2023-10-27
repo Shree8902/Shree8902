@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shree8902](https://github.com/Shree8902)
 
-- 📫 How to reach me **shree.s.nadgauda2gmail.com**
+- 📫 How to reach me **shree.s.nadgauda@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jFSC-2apvs7088fpR2pkJT_XpER85VsG/view?usp=sharing](https://drive.google.com/file/d/1jFSC-2apvs7088fpR2pkJT_XpER85VsG/view?usp=sharing)
 
@@ -16,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shree_sn89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shree_sn89" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shree s nadgauda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shree s nadgauda" height="30" width="40" /></a>
 <a href="https://kaggle.com/shree s nadgauda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shree s nadgauda" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shree_sn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shree_sn" height="30" width="40" /></a>
 </p>
